@@ -1,7 +1,7 @@
 # BISSOLAH-APPS-COMPOSE
 Aplikasi Tuntunan Sholat Dengan Compose
 
-# SplasScreen
+# SplashScreen
 - SPLASSCREEN : MENAMPILKAN LOGO BISOLLAH DALAM WAKTU 3 DETIK KEMUDIAN LANJUT KE HALAMAN HOME BISSOLAH
 
 ![image](https://github.com/user-attachments/assets/90b8f512-ddf6-47a3-b8f0-8b8901c440b3)
